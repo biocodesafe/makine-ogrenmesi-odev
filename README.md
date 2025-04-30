@@ -1,2 +1,3 @@
 # makine-ogrenmesi-odev
-Makine Öğrenmesi Ödev
+Ödev kodları yeşil renkli "code" butonuna basıldığında
+Makine Öğrenemsi Ödev
